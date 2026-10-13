@@ -19,4 +19,8 @@ Python 异步编程学习实验（大模型应用开发求职备战 W1）。
 - Ollama + qwen2.5:7b（本地模型）
 - `pip install httpx`
 
-分支B的版本
+<<<<<<< HEAD
+
+=======
+分支A的版本
+>>>>>>> conflict-demo
